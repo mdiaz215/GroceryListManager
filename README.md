@@ -1,0 +1,2 @@
+# GroceryListManager
+Simple Angular project
