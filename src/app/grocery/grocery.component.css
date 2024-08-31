@@ -1,0 +1,46 @@
+
+.input-group {
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+input.form-control {
+    border-radius: 5px 0px 0px 5px;
+    border: 1px solid #6102ca;
+    border-right: none;
+    min-width: 30%;
+    padding: 5px;
+    line-height: 1.5em;
+}
+
+button.btn-primary {
+    border-radius: 0px 5px 5px 0px;
+    background-color: #6102ca;
+    border: 1px solid #6102ca;
+    color: white;
+    padding: 5px;
+    line-height: 1.5em;
+}
+
+hr {
+    display: block;
+    margin: 1em auto;
+    border: 0.5px solid #786092;
+}
+
+.grocery-list h3 {
+    font-family: "SUSE", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 1em;
+    font-weight: 400;
+    color: #786092;
+    padding-left: 10px;
+}
+
+ul.list-group {
+    color: #3d017e;
+    padding-left: 5em;
+}
+
