@@ -23,10 +23,16 @@ button.btn-primary {
     line-height: 1.5em;
 }
 
+.hr-container {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 hr {
-    display: block;
     margin: 1em auto;
-    border: 0.5px solid #786092;
+    border: none;
+    height: 1px;
+    background-color: #786092;
 }
 
 .grocery-list h3 {
